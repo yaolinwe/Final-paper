@@ -7,6 +7,7 @@ fontfamily: Times New Roman
 font size: 12pt
 # spacing: double spacing
 
+Code and data supporting this analysis is available at: https://github.com/yaolinwe/Final-paper.git 
 keywords: smoking, exercise, weight, medical
 abstract: This research outlines the impacts of smoking on people’s health, level of exercises on one’s health and also the weight on patient’s medical cost. Smoking has been a vital problem though various measures have been taken to curb smoking and use of tobacco related products. On the other hand, the level of exercises on someone’s health is pivotal as it also determines one’s weight. Lack of proper body exercises can have grave impacts on an individual’s weight. We will seek to identify the level of exercises and the effects of not exercising on a patient’s health.
 body: Introduction
