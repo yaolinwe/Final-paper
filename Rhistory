@@ -1,0 +1,20 @@
+install.packages("expss")
+library(expss)
+data(mtpatients)
+install.packages("kableExtra")
+install.packages('ReporteRs') # Install
+library('ReporteRs') # Load
+library('ReporteRs') # Load
+library('ReporteRs')
+addTitle(doc, value, level=1) # Add titles
+ddParagraph(doc, value) # Add a paragraph of texts
+"ReporteRs-fontsize" = 12,
+kbl(dt)
+ahmd
+THE.IMPACT.OF.SMOKING <- read.csv("C:/Users/Admin/Downloads/THE IMPACT OF SMOKING.docx", sep="")
+View(THE.IMPACT.OF.SMOKING)
+tables <- read.csv("~/tables.docx", sep="", stringsAsFactors=TRUE)
+View(tables)
+View(tables)
+View(THE.IMPACT.OF.SMOKING)
+View(tables)
